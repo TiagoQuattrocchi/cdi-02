@@ -5,7 +5,7 @@ int main(void) {
   int billetes10 =0;
   int billetes20 =0;
   int billetes50 =0;
-  intbilletes100 =0
+  int billetes100 =0
   int monto =0;
   printf(“Seleccione el monto a retirar:\n”);
   scanf(“%d\n”,&monto);
