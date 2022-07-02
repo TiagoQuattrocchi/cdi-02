@@ -1,7 +1,7 @@
 # cdi-02
 # Cajero
 
-Alumno: Nombre y apellido
+Alumno: Tiago Quattrocchi
 
 Curso: 4°2 avionica
 
